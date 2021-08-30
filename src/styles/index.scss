@@ -11,3 +11,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Trafficlight{
+    background-color: black;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 40%;
+}
+.Luz {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.rojo {
+    background-color: red;
+}
+.amarillo {
+    background-color: yellow;
+}
+.verde {
+    background-color: green;
+}
+.brillo{
+    box-shadow:  0 0 9px 4px #0ff;
+}
